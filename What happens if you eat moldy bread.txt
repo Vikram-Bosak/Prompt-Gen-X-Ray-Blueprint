@@ -1,0 +1,124 @@
+🎬 What happens if you eat moldy bread?
+Generated: 2026-03-27 13:12:48 IST
+
+👤 CHARACTER CARD
+  • Name/Role: N/A
+  • Costume (FIXED): N/A
+  • Hair + Skin Tone: N/A
+  • Expression Range: N/A
+  • Scale Reference: N/A
+
+🎥 CAMERA JOURNEY PLAN
+Single continuous camera begins at kitchen counter, pushes through bread slice to enter digestive system, orbits inside intestines, then pulls back out to kitchen counter for perfect loop
+
+──────────────────────────────────────────────────
+
+CLIP 1 ⏱ 0s-6s — Moldy Bread Discovery
+──────────────────────────────────────────────────
+🎥 CAMERA: Camera starts at wide angle on kitchen counter, slowly pushes IN toward half-eaten bread slice with visible green-blue mold spots
+👀 VISUAL: Chintu in blue kurta and yellow shorts stands at kitchen counter, pointing at moldy bread with concerned expression, white wristband visible, spiky black hair slightly messy
+🔊 SFX: Refrigerator hum at 0:02 | Bread crinkle at 0:04 | Subtle mold spore puff sound at 0:05
+🎤 VO: Chintu ne roti kha li, par usme yeh green fungus dekha... kya hoga ab uske pait mein?
+
+📸 VIDEO PROMPTS
+PROMPT A:
+4K Ultra HD, 3D CGI Animation, Chintu isolated only, child in blue kurta yellow shorts red sneakers pointing at bread slice with green-blue mold spots on wooden kitchen counter, morning sunlight through window
+
+PROMPT B:
+4K Ultra HD, 3D CGI Animation, bread slice isolated only, close-up cross-section showing mold hyphae penetrating bread surface with green spores visible at 10x magnification
+
+PROMPT C:
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at wide kitchen counter view → pushes IN to extreme close-up of moldy bread surface → arrives at microscopic mold spore level, CHARACTER LOCK: Jet black spiky hair + blue kurta with white collar + yellow shorts + warm medium brown skin + concerned expression, ANIMATION SEQUENCE: 0-2s wide counter shot, 2-4s push through air to bread, 4-6s extreme close-up on mold, SFX GUIDE: Refrigerator hum 0-6s | Bread crinkle at 0:04 | Mold spore puff at 0:05
+
+PROMPT D:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: neutral/static at microscopic level, ANIMATION SEQUENCE: Mold spores slowly releasing mycotoxins into bread matrix, SFX GUIDE: Subtle chemical reaction fizz at 0:02
+
+──────────────────────────────────────────────────
+
+CLIP 2 ⏱ 6s-12s — Toxin Release Shock
+──────────────────────────────────────────────────
+🎥 CAMERA: Camera tilts DOWN from bread surface to follow invisible toxin particles entering Chintu's open mouth as he takes another bite
+👀 VISUAL: Chintu mid-bite, eyes wide with shock as green-tinged toxin particles (visible only to audience) enter his mouth, blue kurta collar visible, white wristband on left hand, spiky hair slightly displaced from bite motion
+🔊 SFX: Bite crunch at 0:06 | Toxin zap sound at 0:07 | Gulping swallow at 0:09 | Stomach gurgle at 0:11
+🎤 VO: Ye mold chhote chhote zeher chor raha hai... jab Chintu ne kisa, to yeh pait mein ghus gayi invisible poison!
+
+📸 VIDEO PROMPTS
+PROMPT A:
+4K Ultra HD, 3D CGI Animation, Chintu isolated only, child in blue kurta yellow shorts taking bite of bread, eyes wide shocked, green toxin particles visible in air near mouth, kitchen counter background
+
+PROMPT B:
+4K Ultra HD, 3D CGI Animation, toxin particles isolated only, magnified view of mycotoxin molecules (oval green shapes) detaching from mold spores and floating freely
+
+PROMPT C:
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at bread surface → tilts DOWN following toxin particles into Chintu's open mouth → arrives at tongue level, CHARACTER LOCK: Jet black spiky hair + blue kurta with white collar + yellow shorts + warm medium brown skin + shocked wide eyes expression, ANIMATION SEQUENCE: 6-8s bread surface, 8-10s tilt down to mouth, 10-12s tongue contact, SFX GUIDE: Bite crunch at 0:06 | Toxin zap at 0:07 | Gulping at 0:09 | Stomach gurgle at 0:11
+
+PROMPT D:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: neutral/static at tongue level, ANIMATION SEQUENCE: Toxin particles dissolving on tongue surface, being absorbed, SFX GUIDE: Subtle absorption hum at 0:10
+
+──────────────────────────────────────────────────
+
+CLIP 3 ⏱ 12s-18s — X-Ray: Intestinal Invasion
+──────────────────────────────────────────────────
+🎥 CAMERA: Camera pushes THROUGH Chintu's abdomen wall to reveal X-ray view of intestines with toxin particles attacking gut lining
+👀 VISUAL: X-ray view showing Chintu's blue kurta outline, intestines glowing green where toxins damage lining, white blood cells (blue spheres) rushing to fight, Chintu's face visible in inset showing pain
+🔊 SFX: Abdomen push-through whoosh at 0:12 | Intestine squelch at 0:14 | White blood cell zap at 0:16 | Toxin hit sound at 0:17
+🎤 VO: Andar pait mein! Ye zeher pait ki lining ko kha raha hai... dekhiye, white blood cells lad rahe hain isse sehmat karne ki koshish mein!
+
+📸 VIDEO PROMPTS
+PROMPT A:
+4K Ultra HD, 3D CGI Animation, Chintu isolated only, child silhouette in blue kurta yellow shorts with X-ray view showing green-damaged intestines and blue white blood cells fighting, concerned expression
+
+PROMPT B:
+4K Ultra HD, 3D CGI Animation, intestine cross-section isolated only, magnified view showing toxin particles (green) damaging villi (pink finger-like structures) while blue immune cells attack
+
+PROMPT C:
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at Chintu's abdomen surface → pushes THROUGH skin and muscle → arrives at X-ray intestine view, CHARACTER LOCK: Jet black spiky hair + blue kurta outline visible + yellow shorts + warm medium brown skin + pained expression in inset, ANIMATION SEQUENCE: 12-14s push through body layers, 14-16s settle on intestine view, 16-18s show immune response, SFX GUIDE: Abdomen whoosh at 0:12 | Intestine squelch 0:14 | WBC zap 0:16 | Toxin hit 0:17
+
+PROMPT D:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: neutral/static inside intestine, ANIMATION SEQUENCE: Toxins binding to gut lining, immune cells engulfing toxins, SFX GUIDE: Binding reaction at 0:15 | Engulfment pop at 0:17
+
+──────────────────────────────────────────────────
+
+CLIP 4 ⏱ 18s-24s — Immune System Overload
+──────────────────────────────────────────────────
+🎥 CAMERA: Camera orbits 360 degrees around inflamed intestine section showing cytokine storm and fluid leakage
+👀 VISUAL: Chintu sweating slightly, hand on stomach, blue kurta damp at forehead, orbit camera shows intestine swelling with red inflammation, fluid leaking, white blood cells overwhelmed
+🔊 SFX: Orbit whoosh start at 0:18 | Intestine pulse throb at 0:20 | Fluid leak splash at 0:22 | Heartbeat increase at 0:23
+🎤 VO: Pait ka inflammation badh raha hai! Cytokine storm... dekhiye yeh leak ho raha hai, isse diarrhea aur vomiting ho sakta hai!
+
+📸 VIDEO PROMPTS
+PROMPT A:
+4K Ultra HD, 3D CGI Animation, Chintu isolated only, child in blue kurta yellow shorts sweating, hand on stomach, slightly hunched posture, kitchen background blurred
+
+PROMPT B:
+4K Ultra HD, 3D CGI Animation, inflammation diagram isolated only, showing swollen intestine wall with cytokine signals (yellow bursts) and fluid leakage points (blue droplets)
+
+PROMPT C:
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at one point on inflamed intestine → orbits 360° around section → returns to starting point, CHARACTER LOCK: Jet black spiky hair + blue kurta with white collar (slightly damp) + yellow shorts + warm medium brown skin + sweating concerned expression, ANIMATION SEQUENCE: 18-20s start orbit, 20-22s full inflammation view, 22-24s complete orbit return, SFX GUIDE: Orbit whoosh 0:18 | Pulse throb 0:20 | Fluid splash 0:22 | Heartbeat 0:23
+
+PROMPT D:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: neutral/static at orbit center, ANIMATION SEQUENCE: Cytokine release triggering inflammation cascade, SFX GUIDE: Cytokine burst at 0:19 | Inflammation wave at 0:21
+
+──────────────────────────────────────────────────
+
+CLIP 5 ⏱ 24s-30s — Lesson Learned Loop
+──────────────────────────────────────────────────
+🎥 CAMERA: Camera pulls BACK from intestine view through body wall to kitchen counter, ending on Chintu throwing moldy bread in trash
+👀 VISUAL: Chintu now smiling, wearing same blue kurta yellow shorts, placing moldy bread in green trash bin, white wristband visible, spiky hair neat, kitchen sunlit
+🔊 SFX: Body pull-back whoosh at 0:24 | Trash lid open at 0:26 | Bread drop at 0:28 | Trash lid close at 0:29 | Refrigerator hum return at 0:30
+🎤 VO: Sabse safek: moldy roti ko khaane se bachna... fir se dekhiye, Chintu ne seekha - fungus wali roti? Direct dustbin!
+
+📸 VIDEO PROMPTS
+PROMPT A:
+4K Ultra HD, 3D CGI Animation, Chintu isolated only, child in blue kurta yellow shorts red sneakers placing bread slice in green trash bin, smiling, white wristband, spiky hair neat, kitchen counter
+
+PROMPT B:
+4K Ultra HD, 3D CGI Animation, trash bin isolated only, showing moldy bread slice inside with biohazard symbol, green lid closing
+
+PROMPT C:
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at intestine X-ray view → pulls BACK through body wall and kitchen air → arrives at Chintu at trash bin, CHARACTER LOCK: Jet black spiky hair + blue kurta with white collar + yellow shorts + warm medium brown skin + smiling expression, ANIMATION SEQUENCE: 24-26s pull from intestine, 26-28s through kitchen air, 28-30s arrive at trash action, SFX GUIDE: Body whoosh 0:24 | Trash open 0:26 | Bread drop 0:28 | Lid close 0:29 | Fridge hum 0:30
+
+PROMPT D:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: neutral/static at trash bin level, ANIMATION SEQUENCE: Bread settling in bin, lid sealing, SFX GUIDE: Settle thud at 0:28 | Seal click at 0:29
+
+──────────────────────────────────────────────────

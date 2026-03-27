@@ -1,0 +1,115 @@
+🎬 हिंदी: टूटी हुई हड्डी वापस कैसे जुड़ती है? - VIDEO PROMPTS (AI Video Generator)
+Generated: 2026-03-27 16:18:49 IST
+
+Use these prompts with Runway, Kling, Pika, ElevenLabs, or any AI video/audio generator
+==================================================
+
+╔════════════════════════════════════════════════════════╗
+║ CLIP 1  ⏱ 0s-6s  —  टूटी हड्डी का दर्द
+╚════════════════════════════════════════════════════════╝
+
+🎤 HINDI VOICEOVER (Say this in the video):
+────────────────────────────────────────────────────────────
+खेलते समय पैर मोड़ गया... अब हर कदम पर दर्द जैसी बिजली दौड़ रही है... क्या यह हड्डी कभी ठीक होगी?
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, athletic teen in soccer jersey grimacing holding swollen left ankle on grass field, डॉ. अनीта kneeling beside in white lab coat blue scrubs, sunset lighting, detailed fabric texture
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, isolated swollen ankle area showing external bruising and skin displacement, medical inspection view, no character
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Starts at ground level grass blades → tilts UP to reveal injured ankle and grimacing teen → pushes IN to focus on swollen area skin texture, CHARACTER LOCK: Shoulder-length black hair + white lab coat blue scrubs + medium brown skin + concerned expression, ANIMATION SEQUENCE: 0-2s ground tilt up, 2-4s push-in on ankle, 4-6s subtle skin pulsation SFX GUIDE: Wind at 0:02 | Groan at 0:04
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: Neutral static on swollen ankle, ANIMATION SEQUENCE: Subtle tissue swelling pulse (0-2s), bruise color spread simulation (2-4s), micro-fracture light glint (4-6s), SFX GUIDE: Internal tissue creak at 0:03 | Fluid shift at 0:05
+
+============================================================
+
+╔════════════════════════════════════════════════════════╗
+║ CLIP 2  ⏱ 6s-12s  —  चकित करने वाला तथ्य
+╚════════════════════════════════════════════════════════╝
+
+🎤 HINDI VOICEOVER (Say this in the video):
+────────────────────────────────────────────────────────────
+असली हैरानी की बात? आपकी हड्डी हर 7 साल में खुद को पूरी तरह बदल लेती है... जैसे त्वचा लेकिन अंदर से!
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, डॉ. अनीता pointing at transparent leg showing femur fracture, white lab coat blue scrubs, athletic teen background, medical hologram interface floating nearby
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, isolated cross-section of femur showing fracture line with blood clot formation and osteoblast cells migrating, labeled cellular activity
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Starts at knee joint side → orbits 180° around femur while pushing forward to reveal internal fracture through transparent skin → stops at anterior view, CHARACTER LOCK: Shoulder-length black hair + white lab coat blue scrubs + medium brown skin + amazed expression, ANIMATION SEQUENCE: 6-8s orbital start, 8-10s push-through, 10-12s cellular activity reveal SFX GUIDE: Whoosh at 0:06 | Crack echo at 0:08 | Cellular ping at 0:10
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: Side view of femur cross-section, ANIMATION SEQUENCE: Blood clot fibrin mesh forming (6-8s), osteoblast cells crawling toward fracture (8-10s), calcium crystal precipitation (10-12s), SFX GUIDE: Fibrin snap at 0:07 | Cellular tread at 0:09
+
+============================================================
+
+╔════════════════════════════════════════════════════════╗
+║ CLIP 3  ⏱ 12s-18s  —  एक्स-रे अंदर की झलक
+╚════════════════════════════════════════════════════════╝
+
+🎤 HINDI VOICEOVER (Say this in the video):
+────────────────────────────────────────────────────────────
+अंदर देखिए... छोटे-छोटे कोशिया काम कर रहे हैं! ओस्टियोक्लास्ट टुकड़े साफ कर रहे हैं... ओस्टियोब्लास्ट नई हड्डी का जाल बुन रहे हैं... जैसे 3D प्रिंटर!
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, extreme macro inside femur fracture site showing osteoclasts (gray) chewing debris, osteoblasts (pink) laying collagen, calcium crystals (white) precipitating, fibrin net (yellow) trapping cells
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, isolated diagram of bone healing process: osteoclast resorption zone → osteoblast formation front → mineralization zone, with labeled cell types and calcium deposit progression
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Starts at skin surface → pushes THROUGH epidermis dermis muscle → enters bone marrow cavity at fracture site → orbits 90° around healing zone → stops at optimal view, CHARACTER LOCK: Shoulder-length black hair + white lab coat blue scrubs + medium brown skin + focused expression (visible via透视), ANIMATION SEQUENCE: 12-14s tissue push-through, 14-16s cavity entry, 16-18s orbital cell activity SFX GUIDE: Push-through at 0:12 | Scraping at 0:14 | Chime at 0:16 | Snap at 0:17
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: Static inside bone marrow at fracture site, ANIMATION SEQUENCE: Osteoclast debris removal (12-14s), osteoblast collagen laying (14-16s), hydroxyapatite crystallization (16-18s), SFX GUIDE: Enzyme release at 0:13 | Collagen fold at 0:15 | Crystal lock at 0:17
+
+============================================================
+
+╔════════════════════════════════════════════════════════╗
+║ CLIP 4  ⏱ 18s-24s  —  जुड़ाव का शिखर
+╚════════════════════════════════════════════════════════╝
+
+🎤 HINDI VOICEOVER (Say this in the video):
+────────────────────────────────────────────────────────────
+देखिए यह पुल जैसा कॉलस! नई हड्डी दोनों टुकड़ों को जोड़ रही है... 6 हफ्ते में चलने लायक ताकत... 3 महीने में पूरी ताकत!
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, डॉ. अनीता using ultrasound probe on teen's leg showing bright white callus bridging femur fracture, white lab coat blue scrubs, teen attempting partial weight-bearing with hopeful smile
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, isolated sagittal view of femur fracture showing progressive callus formation: soft callus (brown) → hard callus (white) → trabecular bridging (yellow-white) with osteoclast remodeling edges
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Starts inside bone marrow at healing site → pulls BACK through callus formation → rises to show full leg exterior with weight-bearing attempt → stops at lateral view, CHARACTER LOCK: Shoulder-length black hair + white lab coat blue scrubs + medium brown skin + reassuring expression, ANIMATION SEQUENCE: 18-20s pull-back from marrow, 20-22s rise to exterior, 22-24s weight-bearing micro-movement SFX GUIDE: Pull-back at 0:18 | Hum at 0:20 | Snap at 0:22 | Creak at 0:23
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: Static lateral view of femur with callus, ANIMATION SEQUENCE: Callus mineralization progress (18-20s), trabeculae interconnection (20-22s), micromotion strain lines (22-24s), SFX GUIDE: Mineral deposit at 0:19 | Strain gauge at 0:21
+
+============================================================
+
+╔════════════════════════════════════════════════════════╗
+║ CLIP 5  ⏱ 24s-30s  —  सदाबahar लूप
+╚════════════════════════════════════════════════════════╝
+
+🎤 HINDI VOICEOVER (Say this in the video):
+────────────────────────────────────────────────────────────
+और यही चक्र चलता रहता है... आपकी हड्डी ठीक होकर फिर से खेलने लायक... ठीक वैसे ही जैसे हमारी कहानी शुरू हुई थी!
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, डॉ. अनीता and recovered teen walking side-by-side across sunset grass field, teen demonstrating natural gait, white lab coat blue scrubs, soccer ball 10m away, medical blanket folded on grass
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, isolated timeline diagram showing bone healing phases: inflammation (0-1wk) → soft callus (1-3wk) → hard callus (3-6wk) → remodeling (3-12mo), with activity level overlay
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Starts at lateral leg view → orbits DOWNWARD 360° around walking pair → descends to ground level grass → arrives at original starting position with soccer ball in distance, CHARACTER LOCK: Shoulder-length black hair + white lab coat blue scrubs + medium brown skin + satisfied expression, ANIMATION SEQUENCE: 24-26s orbital start, 26-28s descent to ground, 28-30s settle to original grass angle SFX GUIDE: Orbital whoosh at 0:24 | Footsteps at 0:26 | Ball kick at 0:28 | Wind at 0:29
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: Static ground level grass field, ANIMATION SEQUENCE: Grass blades settling (24-26s), shadow alignment match to clip 1 (26-28s), soccer ball position lock (28-30s), SFX GUIDE: Footstep sync at 0:25 | Ball roll at 0:27
+
+============================================================

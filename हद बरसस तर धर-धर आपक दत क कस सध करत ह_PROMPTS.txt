@@ -1,0 +1,115 @@
+🎬 हिंदी: ब्रेसेस (तार) धीरे-धीरे आपके दांतों को कैसे सीधा करते हैं? - VIDEO PROMPTS (AI Video Generator)
+Generated: 2026-03-27 15:42:18 IST
+
+Use these prompts with Runway, Kling, Pika, ElevenLabs, or any AI video/audio generator
+==================================================
+
+╔════════════════════════════════════════════════════════╗
+║ CLIP 1  ⏱ 0s-6s  —  ब्रेसेस की शुरुआत
+╚════════════════════════════════════════════════════════╝
+
+🎤 HINDI VOICEOVER (Say this in the video):
+────────────────────────────────────────────────────────────
+क्या आपने सोचा है कि ये छोटे-छोटे तार कैसे आपके टेढ़े-मेढ़े दांतों को धीरे-धीरे सीधा कर देते हैं?
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, teenage patient sitting in dental chair with closed lips, Dr. Dant in white lab coat beside them, dental clinic background with soft lighting
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, isolated close-up of dental braces wire and bracket on tooth surface, showing metal wire tension
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at medium shot of dental chair and patient → slowly pushes forward 2 feet toward patient's closed lips → arrives at extreme close-up of lips surface, CHARACTER LOCK: Black short neat hair + white lab coat with blue stethoscope + medium brown skin + curious expression, ANIMATION SEQUENCE: 0-2s camera push-in, 2-4s lips texture detail reveal, 4-6s slight lip tension showing teeth pressure underneath, SFX GUIDE: Dental hum at 0:02 | Chair squeak at 0:04 | Breath at 0:05
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: neutral/static at extreme close-up of lips, ANIMATION SEQUENCE: 0-2s lips closed, 2-4s subtle pressure waves showing teeth movement underneath, 4-6s lips return to neutral, SFX GUIDE: Same as above
+
+============================================================
+
+╔════════════════════════════════════════════════════════╗
+║ CLIP 2  ⏱ 6s-12s  —  आकर्षक तथ्य
+╚════════════════════════════════════════════════════════╝
+
+🎤 HINDI VOICEOVER (Say this in the video):
+────────────────────────────────────────────────────────────
+ये जानकर हैरान हो जाएंगे - ब्रेसेस का तार हर महीने सिर्फ 0.25 मिलीमीटर दांत को आगे बढ़ाता है, लेकिन ये छोटा साmovement महीनों में बड़ा बदलाव ला देता है!
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, upper teeth visible with metal braces brackets and silver wire, Dr. Dant's gloved finger pointing at wire, lips partially open
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, isolated diagram showing 0.25mm monthly tooth movement measurement scale with arrow indicating direction
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at extreme close-up of lips → tilts down 30 degrees to reveal teeth surface → pushes forward 1.5 inches through gap between central incisors → arrives at extreme close-up of braces wire and bracket, CHARACTER LOCK: Black short neat hair + white lab coat with blue stethoscope + medium brown skin + surprised expression, ANIMATION SEQUENCE: 0-2s camera tilt down, 2-4s push through teeth gap, 4-6s wire close-up with tension vibration, SFX GUIDE: Metallic tink at 0:06 | Wire twang at 0:08 | Suction at 0:10
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: neutral/static at braces wire close-up, ANIMATION SEQUENCE: 0-2s wire showing 0.25mm movement scale, 2-4s wire pulsing with tension, 4-6s measurement arrow appearing, SFX GUIDE: Same as above
+
+============================================================
+
+╔════════════════════════════════════════════════════════╗
+║ CLIP 3  ⏱ 12s-18s  —  एक्स-रे डाइव
+╚════════════════════════════════════════════════════════╝
+
+🎤 HINDI VOICEOVER (Say this in the video):
+────────────────────────────────────────────────────────────
+अंदर देखिए - तार का खींचाव ब्रैकेट को खींचता है, ये दांत के जड़ के आसपास के लिगामेंट को एक तरफ खींचता और दूसरी तरफ दबाता है, जिससे हड्डी धीरे-धीरे बनती और हटती है!
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, X-ray view of upper central incisor showing enamel (transparent), dentin (yellow), pulp (red), braces bracket on surface with wire pulling left, periodontal ligament visible around root
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, isolated cross-section diagram showing tooth with arrows: left ligament stretching (red), right ligament compressing (blue), bone resorption (orange dots) and formation (green dots)
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at extreme close-up of braces wire → pushes forward 0.5 inches through tooth enamel layer → orbits 180 degrees around tooth root showing periodontal ligament → arrives at side view of root with ligament stretch/compression, CHARACTER LOCK: Black short neat hair + white lab coat with blue stethoscope + medium brown skin + focused expression, ANIMATION SEQUENCE: 0-2s enamel penetration, 2-4s orbit around root, 4-6s ligament stretch/compression visualization, SFX GUIDE: Tooth hum at 0:12 | Ligament creak at 0:14 | Bone crackle at 0:16
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: neutral/static at tooth root side view, ANIMATION SEQUENCE: 0-2s ligament stretching (left side elongating), 2-4s ligament compressing (right side shortening), 4-6s bone cells showing resorption (orange) and formation (green), SFX GUIDE: Same as above
+
+============================================================
+
+╔════════════════════════════════════════════════════════╗
+║ CLIP 4  ⏱ 18s-24s  —  शिखर संघर्ष
+╚════════════════════════════════════════════════════════╝
+
+🎤 HINDI VOICEOVER (Say this in the video):
+────────────────────────────────────────────────────────────
+यहाँ असली जादू होता है - एक दांत पीछे जाता है, दूसरा आगे बढ़ता है, और ब्रेसेस का तार इस संतुलन को बनाए रखता है, महीने-दर-महीने आपके मुस्कान को आकार देता है!
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, side view of dental arch with three upper teeth visible: left molar moving distally (backward), central incisor neutral, right canine moving mesially (forward), braces wire connecting all brackets
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, isolated diagram showing force distribution: red arrows showing backward force on left tooth, blue arrows showing forward force on right tooth, wire showing tension balance
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at side view of tooth root → pulls back 2 feet to show three-teeth dental arc → arcs upward 45 degrees to show full arch perspective → arrives at 3/4 view of moving dental arch, CHARACTER LOCK: Black short neat hair + white lab coat with blue stethoscope + medium brown skin + explaining expression, ANIMATION SEQUENCE: 0-2s pull back to three teeth, 2-4s arc upward, 4-6s show force vectors and bone movement, SFX GUIDE: Tiny pings at 0:19 | Particle whoosh at 0:21 | Wire twang at 0:23
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: neutral/static at 3/4 view of dental arch, ANIMATION SEQUENCE: 0-2s show left tooth moving back with bone compression, 2-4s show right tooth moving forward with bone expansion, 4-6s wire tension balancing both forces, SFX GUIDE: Same as above
+
+============================================================
+
+╔════════════════════════════════════════════════════════╗
+║ CLIP 5  ⏱ 24s-30s  —  परफेक्ट लूप
+╚════════════════════════════════════════════════════════╝
+
+🎤 HINDI VOICEOVER (Say this in the video):
+────────────────────────────────────────────────────────────
+और इसी तरह महीने-दर-महीने, ये छोटे तार आपके दांतों को सीधा करते हैं - जो हमने शुरू में देखा था, बस अब आपके मुस्कान में अंतर देखिए!
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, patient smiling with straight teeth showing braces, Dr. Dant giving thumbs up, 'Before' and 'After' dental chart on clinic wall, same dental chair and lighting as clip 1
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, isolated split-screen diagram: left side showing crooked teeth with arrows, right side showing straight teeth with celebration stars
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at 3/4 view of moving dental arch → moves backward 3 feet → tilts up 15 degrees to show full patient and chair → arrives at exact medium shot matching clip 1 starting position, CHARACTER LOCK: Black short neat hair + white lab coat with blue stethoscope + medium brown skin + smiling expression, ANIMATION SEQUENCE: 0-2s backward movement, 2-4s tilt up and frame adjust, 4-6s match clip 1 framing and add smile/thumbs up, SFX GUIDE: Positive chime at 0:26 | Chair squeak at 0:28 | Breath pattern at 0:29
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: neutral/static matching clip 1 starting medium shot, ANIMATION SEQUENCE: 0-2s lips closed as in clip 1, 2-4s slight smile beginning, 4-6s full smile with thumbs up matching end state, SFX GUIDE: Same as above
+
+============================================================

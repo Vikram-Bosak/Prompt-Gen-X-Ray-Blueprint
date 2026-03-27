@@ -2,7 +2,7 @@ name: Video Prompt Agent
 
 on:
   schedule:
-    - cron: "0 */3 * * *"  # Every 3 hours (UTC) - 24/7 Automation enabled
+    - cron: "0 * * * *"  # Every hour - 24/7 Automation
   workflow_dispatch:       # Manual trigger
   push:
     branches:
@@ -24,6 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
+          pip install python-dotenv
       
       - name: Run Agent
         env:

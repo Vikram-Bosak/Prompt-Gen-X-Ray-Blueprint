@@ -1,0 +1,85 @@
+🎬 What happens if you drink liquid nitrogen? - VIDEO PROMPTS
+Generated: 2026-03-27 13:37:06 IST
+
+Use these prompts with Runway, Kling, Pika, or any AI video generator
+==================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CLIP 1 ⏱ 0s-6s — The Dangerous Sip
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, Dr. Ayaan isolated only, short black hair, warm brown skin, white lab coat, blue goggles on forehead, blue nitrile gloves, curious expression, standing beside smoking liquid nitrogen dewar with empty glass beaker in hand
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, liquid nitrogen molecule diagram isolated only, blue spheres representing N2 molecules with motion trails showing rapid vaporization
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at wide lab bench with dewar → pushes IN to character's face over 2 seconds → holds close-up of eyes widening at 3-4s → slight tilt up to show dewar at 5s, CHARACTER LOCK: short black hair + white lab coat + blue goggles + warm brown skin + curious expression, ANIMATION SEQUENCE: 0-2s: push-in motion, 2-3s: character blinks, 3-4s: eyes widen slightly, 4-5s: subtle head tilt, 5-6s: hold position, SFX GUIDE: Hiss at 0:01, inhale at 0:04, glass tap at 0:05
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: neutral/static at molecular level, ANIMATION SEQUENCE: 0-2s: N2 molecules vibrate rapidly, 2-4s: molecules break bonds and scatter as gas, 4-6s: vapor cloud expands outward, SFX GUIDE: Hiss throughout, increasing intensity 0-2s
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CLIP 2 ⏱ 6s-12s — Instant Freeze Shock
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, Dr. Ayaan isolated only, pouring liquid nitrogen from dewar into glass beaker, short black hair, white lab coat, blue goggles now on eyes, blue nitrile gloves, shocked expression with raised eyebrows, vapor bursting from beaker
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, temperature scale diagram isolated only, showing -196°C marker with blue freezing zone expanding toward human mouth illustration
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at character's face (6s) → tilts DOWN to pouring action over 1 second → tracks the liquid stream into beaker at 7-8s → pushes IN to show vapor explosion at 9s → tilts UP to character's shocked face at 10-11s → holds close-up at 12s, CHARACTER LOCK: short black hair + white lab coat + blue goggles + warm brown skin + shocked expression, ANIMATION SEQUENCE: 6-7s: tilt down, 7-8s: track pour, 8-9s: push-in vapor, 9-10s: tilt up, 10-11s: character gasps, 11-12s: hold shocked face, SFX GUIDE: Pour at 6:01, bubbling at 6:02, gasp at 6:04, crackle at 6:05
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: neutral/static at pour point, ANIMATION SEQUENCE: 6-7s: liquid nitrogen hits glass, 7-9s: violent boiling and vapor expansion, 9-11s: vapor cloud engulfs beaker rim, 11-12s: vapor begins to dissipate upward, SFX GUIDE: Bubbling peak 7-8s, vapor roar 8-10s
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CLIP 3 ⏱ 12s-18s — X-Ray: Frozen Insides
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, X-ray view of human torso isolated only, showing Dr. Ayaan's outline in blue-white, mouth and throat area with spreading blue ice crystals, esophagus showing frost lines, stomach wall with fracturing patterns
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, cellular damage diagram isolated only, showing healthy pink cells turning blue and fracturing as ice crystals form and expand between them
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at lips (12s) → pushes THROUGH mouth opening over 1 second → dives DOWN throat showing frost spread at 13-14s → orbits AROUND stomach at 15s showing ice crystal formation on walls → pulls BACK slightly at 16-17s to show full frozen area → holds at 18s, CHARACTER LOCK: short black hair + white lab coat + blue goggles + warm brown skin + concerned expression (visible through X-ray facade), ANIMATION SEQUENCE: 12-13s: enter mouth, 13-14s: throat freeze, 14-15s: stomach orbit start, 15-16s: complete orbit, 16-17s: pull back, 17-18s: hold frozen view, SFX GUIDE: Whoosh at 12:01, crack at 12:03, creaking 12:05-07, groan at 12:07
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: neutral/static at stomach wall, ANIMATION SEQUENCE: 12-13s: initial contact freeze, 13-15s: ice crystal nucleation and growth, 15-17s: crystal expansion causing micro-fractures, 17-18s: hold showing fractured tissue pattern, SFX GUIDE: Crackling intensity builds 12-15s, peaks 15-17s
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CLIP 4 ⏱ 18s-24s — Pressure Build Crisis
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, Dr. Ayaan isolated only, doubled over in pain, short black hair, white lab coat, blue goggles strained, blue nitrile gloves clenched on stomach, face showing agony, sweat droplets on forehead
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, gas expansion diagram isolated only, showing small liquid nitrogen volume expanding to huge gas volume with pressure arrows pushing outward on stomach walls
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at character's side (18s) → orbits AROUND chest/stomach area over 2 seconds → pushes IN to X-ray view of stomach at 20s showing gas expansion → holds pressure view at 21-22s → pulls BACK to show full body distress at 23s → holds at 24s, CHARACTER LOCK: short black hair + white lab coat + blue goggles + warm brown skin + agony expression, ANIMATION SEQUENCE: 18-19s: start orbit, 19-20s: complete orbit, 20-21s: push-in to X-ray, 21-22s: show gas pressure stretching walls, 22-23s: pull back to full body, 23-24s: hold distressed pose, SFX GUIDE: Groan at 18:01, whistle start 18:03, creak 18:05, gasp 18:07, buzz 18:09
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: neutral/static at stomach interior, ANIMATION SEQUENCE: 18-19s: liquid nitrogen pools, 19-21s: rapid vaporization begins, 21-23s: gas expansion accelerates, pressure waves hit walls, 23-24s: hold showing maximum wall tension, SFX GUIDE: Vaporization sound 18-20s, pressure waves 20-23s
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CLIP 5 ⏱ 24s-30s — The Burst & Lesson Loop
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, Dr. Ayaan isolated only, stepping back from liquid nitrogen dewar, short black hair, white lab coat, blue goggles pushed up on forehead, blue nitrile gloves raised in 'stop' gesture, relieved but wise expression, dewar smoking in background
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, safety symbol diagram isolated only, showing red circle with slash over liquid nitrogen dewar and mouth, with checkmark over safe distance and goggles
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at character's face covering mouth (24s) → pulls BACK to show full body stepping away from dewar over 2 seconds → pushes IN to lab bench with dewar at 26s showing character at safe distance → orbits slightly to show dewar vapor at 27-28s → pushes IN to character's face showing relief at 29s → holds at 30s matching opening frame, CHARACTER LOCK: short black hair + white lab coat + blue goggles + warm brown skin + relieved expression, ANIMATION SEQUENCE: 24-25s: pull back start, 25-26s: complete pull back to safe distance, 26-27s: push-in to bench, 27-28s: slight orbit, 28-29s: push-in to face, 29-30s: hold relieved face matching opening, SFX GUIDE: Silence at 24:01, pop at 24:02, exhale at 24:04, bench tap at 24:06, hiss restart at 24:08
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, CAMERA POSITION: neutral/static at lab bench, ANIMATION SEQUENCE: 24-25s: character moves away, 25-27s: vapor continues from dewar, 27-29s: character gestures safety, 29-30s: hold showing character at safe distance with relieved expression, SFX GUIDE: Hiss continues throughout, character movement sounds 24-26s

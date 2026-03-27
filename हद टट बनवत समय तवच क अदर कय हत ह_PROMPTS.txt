@@ -1,0 +1,85 @@
+🎬 हिंदी: टैटू बनवाते समय त्वचा के अंदर क्या होता है? - VIDEO PROMPTS
+Generated: 2026-03-27 13:58:05 IST
+
+Use these prompts with Runway, Kling, Pika, or any AI video generator
+==================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CLIP 1 ⏱ 0s-6s — स्टूडियो एंट्री
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, टैटू स्टूडियो का इन्टीरियर, राहुल सफ़ेद लैब कोट में खड़ा, टैटू मशीन हाथ में, ग्राहक की बांह पर काम कर रहा
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, टैटू मशीन का क्लोज़-अप, सुई और इंक कैप्सूल दिखाते हुए
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at studio door entrance → tilts UP to reveal Rahul's full body → stops at chest level, CHARACTER LOCK: काले छोटे बाल + सफ़ेद लैब कोट + मध्यम गहरी त्वचा + जिज्ञासु expresión, ANIMATION SEQUENCE: 0-2s door opens, 2-4s camera tilts up, 4-6s steady on Rahul, SFX GUIDE: Door creak at 0:01 | Tattoo machine buzz at 0:02
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, स्टूडियो बैकग्राउंड ब्लर, टैटू डिज़ाइन स्केच isolatd, राहुल का हाथ टैटू बनाते हुए
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CLIP 2 ⏱ 6s-12s — शॉकिंग फैक्ट
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, टैटू सुई का एक्सट्रीम क्लोज़-अप, त्वचा में प्रवेश और निकास करते हुए, खून के सूक्ष्म बूंदे
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, सुई की गति का आरेख, 3000 बार/सेकंड दिखाते हुए ग्राफ
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at Rahul's tattoo machine hand → zooms IN to needle tip → tracks needle motion in slow-mo, CHARACTER LOCK: काले छोटे बाल + सफ़ेद लैब कोट + मध्यम गहरी त्वचा + केंद्रित expresión, ANIMATION SEQUENCE: 6-8s zoom to needle, 8-10s slow-mo needle penetration, 10-12s pull back slightly, SFX GUIDE: Needle buzz at 6:02 | Blood drop at 6:04 | Machine rhythm at 6:06
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, नींदल ग्राफ overlay, 0-60 सेकंड में सुई की कुल गति दिखाते हुए
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CLIP 3 ⏱ 12s-18s — एक्स-रे डाइव
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, त्वचा का क्रॉस-सेक्शन view, एपिडर्मिस, डर्मिस, स्यूबक्यूटिस लेयर दिखाते हुए, इंक के कण डर्मिस में फँसे
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, इंक कण का magnification, कोलेजन फाइबर्स के बीच फँसा हुआ दिखाते हुए
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at needle tip on skin surface → pushes THROUGH epidermis → enters dermis → stops at ink particle level, CHARACTER LOCK: काले छोटे बाल + सफ़ेद लैब कोट + मध्यम गहरी त्वचा + आश्चर्यचकित expresión (अंदर की view देखते हुए), ANIMATION SEQUENCE: 12-14s penetrate epidermis, 14-16s travel through dermis, 16-18s focus on ink particles, SFX GUIDE: Layer penetration at 12:03 | Ink particle trap at 12:07 | Deep pulse at 12:10
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, लेयर लेबल diagram, एपिडर्मिस/डर्मिस/स्यूबक्यूटis में इंक की स्थिति दिखाते हुए
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CLIP 4 ⏱ 18s-24s — क्लाइमैक्स
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, डर्मिस लेयर में इंक कण और कोलेजन फाइबers, समय-lapse में धीमा परिवर्तन दिखाते हुए
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, टैटू फेडिंग का diagram, ताज़ा vs 10 साल पुराना टैटू दिखाते हुए
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at ink particle in dermis → orbits around particle → pulls back to show full tattoo design on skin, CHARACTER LOCK: काले छोटे बाल + सफ़ेद लैब कोट + मध्यम गहरी त्वचा + मुस्कुराते हुए expresión, ANIMATION SEQUENCE: 18-20s orbit ink particle, 20-22s show collagen change, 22-24s zoom out to full tattoo, SFX GUIDE: Collagen crack at 18:05 | Fade whoosh at 18:10 | Light sigh at 18:15
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, समय vs फेडिंग ग्राफ, 0-50 साल में इंक स्थिरता दिखाते हुए
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CLIP 5 ⏱ 24s-30s — परफेक्ट लूप
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📸 PROMPT A — IMAGE / Visual Action:
+4K Ultra HD, 3D CGI Animation, टैटू स्टूडियो का इन्टीरियर, दरवाज़ा बंद हो रहा है, राहुल सफ़ेद लैब कोट में खड़ा, टैटू मशीन हाथ में
+
+📸 PROMPT B — IMAGE / Voiceover Concept:
+4K Ultra HD, 3D CGI Animation, स्टूडियो दरवाज़ा क्लोज़-अप, बंद होते हुए दिखाते हुए
+
+🎬 PROMPT C — VIDEO / Visual Action (SINGLE CAMERA):
+4K Ultra HD, 3D CGI Animation, SINGLE CAMERA JOURNEY: Camera starts at finished tattoo → pulls back through studio → exits door → matches opening shot, CHARACTER LOCK: काले छोटे बाल + सफ़ेद लैब कोट + मध्यम गहरी त्वचा + मुस्कुराते हुए expresión, ANIMATION SEQUENCE: 24-26s pull back from tattoo, 26-28s travel through studio, 28-30s exit door and freeze on Rahul's face, SFX GUIDE: Door close at 29:08 | Machine buzz restart at 29:10 | Music note at 29:15
+
+🎬 PROMPT D — VIDEO / Voiceover Diagram:
+4K Ultra HD, 3D CGI Animation, स्टूडियो दरवाज़ा outline, खुला से बंद होने की animation दिखाते हुए
