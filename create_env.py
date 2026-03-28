@@ -19,6 +19,17 @@ def create_env():
 
     os.makedirs("api_keys", exist_ok=True)
 
+    # Decode base64 if needed
+    sa_json = secrets.get("SERVICE_ACCOUNT_JSON", "")
+    if sa_json:
+        try:
+            decoded = base64.b64decode(sa_json.encode()).decode()
+            json.loads(decoded)  # Verify it's valid JSON
+            secrets["SERVICE_ACCOUNT_JSON"] = decoded
+            print("SERVICE_ACCOUNT_JSON: decoded from base64")
+        except Exception as e:
+            print(f"SERVICE_ACCOUNT_JSON: keeping as-is (decode failed: {e})")
+
     with open("api_keys/.env", "w") as f:
         for key, value in secrets.items():
             f.write(f"{key}={value}\n")
