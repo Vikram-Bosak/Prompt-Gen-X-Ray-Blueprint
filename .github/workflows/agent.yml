@@ -44,6 +44,13 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           SERVICE_ACCOUNT_JSON: ${{ secrets.SERVICE_ACCOUNT_JSON }}
       
+      - name: Debug - Show directory
+        run: |
+          pwd
+          ls -la
+          ls -la api_keys/
+          head -2 api_keys/.env
+      
       - name: Run Agent
         run: python agent.py
         env:
