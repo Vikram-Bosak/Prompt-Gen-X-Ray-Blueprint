@@ -673,6 +673,9 @@ def main():
         topic, row_number, _ = get_pending_topic(sheets_service)
 
         if not topic:
+            next_run = datetime.now(IST) + timedelta(hours=3)
+            msg = f"📋 No pending topics found in Google Sheet!\n\n✅ Agent ran successfully but no pending video titles.\n\n⏰ Next run: {next_run.strftime('%Y-%m-%d %H:%M:%S')} IST"
+            send_telegram_message(msg)
             logger.info("No pending topics. Exiting.")
             return
 
