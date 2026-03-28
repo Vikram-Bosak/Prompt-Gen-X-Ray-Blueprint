@@ -35,13 +35,15 @@ def create_env():
         for key, value in secrets.items():
             f.write(f"{key}={value}\n")
 
-    # Verify SERVICE_ACCOUNT_JSON
+    # Verify SERVICE_ACCOUNT_JSON (unescape first)
     with open("api_keys/.env") as f:
         for line in f:
             if line.startswith("SERVICE_ACCOUNT_JSON="):
                 json_str = line.split("=", 1)[1].strip()
+                # Unescape for verification
+                json_str_unescaped = json_str.replace("\\n", "\n")
                 try:
-                    data = json.loads(json_str)
+                    data = json.loads(json_str_unescaped)
                     print(f"Valid! Project: {data.get('project_id')}")
                     print(f"Has private key: {'private_key' in data}")
                 except Exception as e:
