@@ -25,24 +25,18 @@ jobs:
           pip install -r requirements.txt
           pip install python-dotenv
       
-      - name: Create .env file (for repository_dispatch)
-        if: github.event_name == 'repository_dispatch'
+      - name: Create .env file
         run: |
           mkdir -p api_keys
-          echo "NVIDIA_API_KEY=${{ github.event.client_payload.NVIDIA_API_KEY }}" > api_keys/.env
-          echo "GOOGLE_SHEET_ID=${{ github.event.client_payload.GOOGLE_SHEET_ID }}" >> api_keys/.env
-          echo "GOOGLE_DRIVE_FOLDER_ID=${{ github.event.client_payload.GOOGLE_DRIVE_FOLDER_ID }}" >> api_keys/.env
-          echo "TELEGRAM_BOT_TOKEN=${{ github.event.client_payload.TELEGRAM_BOT_TOKEN }}" >> api_keys/.env
-          echo "TELEGRAM_CHAT_ID=${{ github.event.client_payload.TELEGRAM_CHAT_ID }}" >> api_keys/.env
-          echo "SERVICE_ACCOUNT_JSON=${{ github.event.client_payload.SERVICE_ACCOUNT_JSON }}" >> api_keys/.env
+          cat > api_keys/.env << 'ENDFILE'
+          NVIDIA_API_KEY=${{ secrets.NVIDIA_API_KEY }}
+          GOOGLE_SHEET_ID=${{ secrets.GOOGLE_SHEET_ID }}
+          GOOGLE_DRIVE_FOLDER_ID=${{ secrets.GOOGLE_DRIVE_FOLDER_ID }}
+          TELEGRAM_BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID=${{ secrets.TELEGRAM_CHAT_ID }}
+          SERVICE_ACCOUNT_JSON=${{ secrets.SERVICE_ACCOUNT_JSON }}
+          ENDFILE
       
       - name: Run Agent
-        env:
-          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY || '' }}
-          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID || '' }}
-          GOOGLE_DRIVE_FOLDER_ID: ${{ secrets.GOOGLE_DRIVE_FOLDER_ID || '' }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN || '' }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID || '' }}
-          SERVICE_ACCOUNT_JSON: ${{ secrets.SERVICE_ACCOUNT_JSON || '' }}
         run: |
           python agent.py
