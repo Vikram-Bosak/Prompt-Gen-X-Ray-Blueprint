@@ -44,19 +44,12 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           SERVICE_ACCOUNT_JSON: ${{ secrets.SERVICE_ACCOUNT_JSON }}
       
-      - name: Debug - Show directory
+      - name: Debug - Check .env content
         run: |
-          pwd
-          ls -la
-          ls -la api_keys/
-          head -2 api_keys/.env
+          echo "=== Checking .env ==="
+          cat api_keys/.env | grep -o "^[^=]*=" | head -10
+          echo "=== SA JSON length ==="
+          cat api_keys/.env | grep SERVICE_ACCOUNT_JSON | wc -c
       
       - name: Run Agent
         run: python agent.py
-        env:
-          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
-          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
-          GOOGLE_DRIVE_FOLDER_ID: ${{ secrets.GOOGLE_DRIVE_FOLDER_ID }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          SERVICE_ACCOUNT_JSON: ${{ secrets.SERVICE_ACCOUNT_JSON }}
