@@ -2,6 +2,7 @@ import os
 import json
 import time
 import logging
+import base64
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
@@ -67,13 +68,15 @@ def get_gcp_credentials():
                 for line in f:
                     if line.startswith("SERVICE_ACCOUNT_JSON="):
                         sa_json = line.split("=", 1)[1].strip()
-                        logger.info(f"Before unescape: {sa_json[:100]}")
-                        # Unescape newlines
-                        sa_json = sa_json.replace("\\n", "\n")
-                        logger.info(f"After unescape: {sa_json[:100]}")
-                        logger.info(
-                            f"Found SERVICE_ACCOUNT_JSON in .env, length: {len(sa_json)}"
-                        )
+                        logger.info(f"Found in .env, length: {len(sa_json)}")
+                        # Decode from base64
+                        try:
+                            sa_json = base64.b64decode(sa_json.encode()).decode()
+                            logger.info(
+                                f"Decoded from base64, new length: {len(sa_json)}"
+                            )
+                        except Exception as e:
+                            logger.info(f"Base64 decode failed: {e}")
                         break
 
     if not sa_json or sa_json == "":

@@ -19,15 +19,17 @@ def create_env():
 
     os.makedirs("api_keys", exist_ok=True)
 
-    # Decode base64 if needed
+    # Decode base64 if needed and re-encode as base64 for .env storage
     sa_json = secrets.get("SERVICE_ACCOUNT_JSON", "")
     if sa_json:
         try:
             decoded = base64.b64decode(sa_json.encode()).decode()
             json.loads(decoded)  # Verify it's valid JSON
-            # Escape for .env file - replace newlines with \n
-            secrets["SERVICE_ACCOUNT_JSON"] = decoded.replace("\n", "\\n")
-            print("SERVICE_ACCOUNT_JSON: decoded and escaped")
+            # Store as base64 in .env file (no escaping issues)
+            secrets["SERVICE_ACCOUNT_JSON"] = base64.b64encode(
+                decoded.encode()
+            ).decode()
+            print("SERVICE_ACCOUNT_JSON: decoded and stored as base64")
         except Exception as e:
             print(f"SERVICE_ACCOUNT_JSON: keeping as-is (decode failed: {e})")
 
