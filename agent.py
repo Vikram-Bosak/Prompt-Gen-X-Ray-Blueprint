@@ -63,6 +63,8 @@ def get_gcp_credentials():
                 for line in f:
                     if line.startswith("SERVICE_ACCOUNT_JSON="):
                         sa_json = line.split("=", 1)[1].strip()
+                        # Unescape newlines
+                        sa_json = sa_json.replace("\\n", "\n")
                         logger.info(
                             f"Found SERVICE_ACCOUNT_JSON in .env, length: {len(sa_json)}"
                         )

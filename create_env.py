@@ -25,8 +25,9 @@ def create_env():
         try:
             decoded = base64.b64decode(sa_json.encode()).decode()
             json.loads(decoded)  # Verify it's valid JSON
-            secrets["SERVICE_ACCOUNT_JSON"] = decoded
-            print("SERVICE_ACCOUNT_JSON: decoded from base64")
+            # Escape for .env file - replace newlines with \n
+            secrets["SERVICE_ACCOUNT_JSON"] = decoded.replace("\n", "\\n")
+            print("SERVICE_ACCOUNT_JSON: decoded and escaped")
         except Exception as e:
             print(f"SERVICE_ACCOUNT_JSON: keeping as-is (decode failed: {e})")
 
